@@ -7,24 +7,24 @@
  the data set we used for this project is titanic data set which provide information about each persons like age,Sex,did he/she survived or not [source](https://www.kaggle.com/c/titanic/data)
 <br>
 ## Feature information
-`Survival`:0 = didn't survive, 1 = survived
-`pclass`:Ticket class 1 = 1st, 2 = 2nd, 3 = 3rd
-`sex`:the gender of the passnger (male or female)
-`Age`:Age of each passnger
-`sibsp`: number of siblings / spouses aboard the Titanic
-`parch`: number of parents / children aboard the Titanic
-`ticket`:Ticket number
-`fare`:Passenger fare
-`cabin`:Cabin number
-`embarked`:Port of Embarkation `C = Cherbourg`, `Q = Queenstown`, `S = Southampton`
+`Survival`:0 = didn't survive, 1 = survived<br>
+`pclass`:Ticket class 1 = 1st, 2 = 2nd, 3 = 3rd<br>
+`sex`:the gender of the passnger (male or female)<br>
+`Age`:Age of each passnger<br>
+`sibsp`: number of siblings / spouses aboard the Titanic<br>
+`parch`: number of parents / children aboard the Titanic<br>
+`ticket`:Ticket number<br>
+`fare`:Passenger fare<br>
+`cabin`:Cabin number<br>
+`embarked`:Port of Embarkation `C = Cherbourg`, `Q = Queenstown`, `S = Southampton`<br>
+<br>
+further information taken from the [source](https://www.kaggle.com/c/titanic/data)<br>
+pclass: A proxy for socio-economic status (SES)<br>
+1st = Upper<br>
+2nd = Middle<br>
+3rd = Lower<br>
 
-further information taken from the [source](https://www.kaggle.com/c/titanic/data)
-pclass: A proxy for socio-economic status (SES)
-1st = Upper
-2nd = Middle
-3rd = Lower
-
-age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5
+age: Age is fractional if less than 1. If the age is estimated, is it in the form of xx.5<br>
 
 sibsp: The dataset defines family relations in this way...
 Sibling = brother, sister, stepbrother, stepsister
